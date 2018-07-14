@@ -2832,7 +2832,7 @@ input, select, textarea {
 		dl dt {
 			display: block;
 			font-weight: 600;
-			margin: 0 0 1rem 0;
+			margin: 0px;
 		}
 
 		dl dd {
